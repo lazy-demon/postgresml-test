@@ -24,6 +24,6 @@ torchvision==0.15.2
 tqdm==4.65.0
 transformers==4.31.0
 xgboost==1.7.6
-langchain==0.0.237
+langchain==0.0.317
 einops==0.6.1
 pynvml==11.5.0
